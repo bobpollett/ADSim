@@ -1,5 +1,4 @@
 import random
-import textout
 
 #global variables used to score the game
 approval = 50;
