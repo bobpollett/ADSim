@@ -1,4 +1,5 @@
 import random
+from scenarios import *
 
 #global variables used to score the game
 approval = 50;
